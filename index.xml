@@ -11,6 +11,28 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Learning Resources</title>
+      <link>https://keyu-zhu.github.io/post/links/links/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://keyu-zhu.github.io/post/links/links/</guid>
+      <description>
+
+&lt;p&gt;&lt;code&gt;Disclaimer&lt;/code&gt; - This post is merely a collection of links to which most of the Internet users have open access. I sincerely hope that this post is helpful, at least to someone.&lt;/p&gt;
+
+&lt;h3 id=&#34;algorithmic-game-theory&#34;&gt;Algorithmic Game Theory&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cs.umd.edu/class/spring2018/cmsc828m/files/algorithmic-game-theory.pdf&#34; target=&#34;_blank&#34;&gt;Algorithmic Game Theory&lt;/a&gt; - Noam Nisan et al.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://theory.stanford.edu/~tim/f13/f13.html&#34; target=&#34;_blank&#34;&gt;Algorithmic Game Theory (CS364A)&lt;/a&gt; - Tim Roughgarden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://theory.stanford.edu/~tim/w14/w14.html&#34; target=&#34;_blank&#34;&gt;Frontiers in Mechanism Design (CS364B)&lt;/a&gt; - Tim Roughgarden&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://homes.cs.washington.edu/~karlin/GameTheoryBook.pdf&#34; target=&#34;_blank&#34;&gt;Game Theory, Alive&lt;/a&gt; - Anna R. Karlin and Yuval Peres&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://people.mpi-inf.mpg.de/~ycheung/AGT_CE_MD/main.html&#34; target=&#34;_blank&#34;&gt;Algorithmic Game Theory, Mechanism Design and Computational Economics (AGT-CE)&lt;/a&gt; - Yun Kuen (Marco) CHEUNG&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>On Bayesian Epistemology of Myerson Auction</title>
       <link>https://keyu-zhu.github.io/publication/deng2018bayesian/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
