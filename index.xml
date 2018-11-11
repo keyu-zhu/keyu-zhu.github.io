@@ -10,5 +10,32 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>On Bayesian Epistemology of Myerson Auction</title>
+      <link>https://keyu-zhu.github.io/publication/deng2018bayesian/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://keyu-zhu.github.io/publication/deng2018bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Pricing For MHR Distributions</title>
+      <link>https://keyu-zhu.github.io/publication/giannakopoulos2018optimal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://keyu-zhu.github.io/publication/giannakopoulos2018optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn to play maximum revenue auction</title>
+      <link>https://keyu-zhu.github.io/publication/deng2017learn/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://keyu-zhu.github.io/publication/deng2017learn/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
