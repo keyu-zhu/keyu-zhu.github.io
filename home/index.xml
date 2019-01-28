@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://keyu-zhu.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://keyu-zhu.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Academic</title>
       <link>https://keyu-zhu.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -33,7 +33,7 @@
     <item>
       <title></title>
       <link>https://keyu-zhu.github.io/home/about/</link>
-      <pubDate>Fri, 19 Oct 2018 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/about/</guid>
       <description>Biography Keyu Zhu is a first-year graduate student at H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology. Prior to coming to Georgia Tech, he graduated from Shanghai Jiao Tong University, China with B.S. in Mathematics and Applied Mathematics.
@@ -43,7 +43,7 @@ His current research interest lies in the intersection of machine learning and o
     <item>
       <title>Skills</title>
       <link>https://keyu-zhu.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/skills/</guid>
       <description></description>
@@ -61,7 +61,7 @@ His current research interest lies in the intersection of machine learning and o
     <item>
       <title>Publications</title>
       <link>https://keyu-zhu.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/publications_selected/</guid>
       <description></description>
@@ -70,7 +70,7 @@ His current research interest lies in the intersection of machine learning and o
     <item>
       <title>Recent Publications</title>
       <link>https://keyu-zhu.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/publications/</guid>
       <description></description>
@@ -79,7 +79,7 @@ His current research interest lies in the intersection of machine learning and o
     <item>
       <title>Selected Talks</title>
       <link>https://keyu-zhu.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/talks_selected/</guid>
       <description></description>
@@ -88,7 +88,7 @@ His current research interest lies in the intersection of machine learning and o
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://keyu-zhu.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/talks/</guid>
       <description></description>
@@ -97,7 +97,7 @@ His current research interest lies in the intersection of machine learning and o
     <item>
       <title>Recent Posts</title>
       <link>https://keyu-zhu.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/posts/</guid>
       <description></description>
@@ -106,7 +106,7 @@ His current research interest lies in the intersection of machine learning and o
     <item>
       <title>Projects</title>
       <link>https://keyu-zhu.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/projects/</guid>
       <description></description>
@@ -115,7 +115,7 @@ His current research interest lies in the intersection of machine learning and o
     <item>
       <title>Miscellaneous</title>
       <link>https://keyu-zhu.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/teaching/</guid>
       <description>The avatar is generated by FaceQ - 脸萌, which gains phenomenal popularity among Chinese Internet users in 2014.</description>
@@ -124,7 +124,7 @@ His current research interest lies in the intersection of machine learning and o
     <item>
       <title>Tags</title>
       <link>https://keyu-zhu.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/tags/</guid>
       <description></description>
@@ -133,7 +133,7 @@ His current research interest lies in the intersection of machine learning and o
     <item>
       <title>Search</title>
       <link>https://keyu-zhu.github.io/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/search/</guid>
       <description></description>
@@ -142,7 +142,7 @@ His current research interest lies in the intersection of machine learning and o
     <item>
       <title>Contact</title>
       <link>https://keyu-zhu.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://keyu-zhu.github.io/home/contact/</guid>
       <description></description>
